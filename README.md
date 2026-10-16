@@ -4,28 +4,30 @@ This repository contains the static, one-page website for RevReset.
 
 Overview
 - Static site built with plain HTML, CSS and vanilla JavaScript.
-- Designed as a professional, responsive one-page site for B2B CRM Cleanup, Setup & Automation services.
+- Designed as a polished, responsive one-page site for B2B CRM Cleanup, Setup & Automation services.
+- Updated with a more premium, minimalist visual treatment while keeping the original content, flow, and functionality intact.
 
-Files added
-- index.html — main website markup and content
-- styles.css — site styles
-- main.js — minimal interactive behavior (mobile menu, smooth scrolling, reveals)
+Files added or updated
+- index.html — refined structure, updated logo references, and refined content layout
+- styles.css — premium visual redesign, navigation styling, hero treatment, cards, CTA styling, footer polish, responsive behavior
+- main.js — preserved mobile nav and smooth scrolling behavior
+- assets/revreset-logo.svg — official RevReset wordmark/logo asset based on the provided branding
+- assets/favicon.svg — simplified favicon based on the R symbol for the brand
+- README.md — project overview and revision notes
 
-Placeholders requiring your input
-- CONTACT_EMAIL_HERE — replaced with mateja@getrevreset.com in index.html. No remaining placeholders.
+Notes
+- The repository currently contains the brand asset as a crisp SVG for reliable scaling and display on GitHub Pages.
+- The attached official logo was used as the visual reference for the brand treatment and the R-based favicon.
+- No custom domain, DNS changes, or CNAME files were added.
 
 How to edit
-- Update content directly in index.html for copy changes.
+- Update text directly in index.html for copy changes.
 - Adjust styles in styles.css.
 
 Enable GitHub Pages
 1. Go to the repository on GitHub: https://github.com/getrevreset/getrevreset.github.io
 2. Settings -> Pages
-3. Under "Source", select the branch: main and folder: / (root), then Save.
-4. GitHub will publish the site at https://getrevreset.github.io/ (or connect your custom domain later).
+3. Under Source, select Branch: main and Folder: / (root), then Save.
+4. GitHub will publish the site at https://getrevreset.github.io/.
 
-Notes & restrictions
-- No CNAME was added. Do not add or configure the custom domain until you are ready to update DNS.
-- No third-party paid services or tracking scripts were added. If you want analytics or tag manager, provide IDs and I can add them.
-
-If you want any edits (colors, type scale, additional sections, or a downloadable one-pager), tell me what to change and I will update the site and commit the changes.
+If you want additional refinements, I can tune the spacing, typography scale, or branding treatment further while keeping the current structure intact.
