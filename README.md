@@ -12,7 +12,7 @@ Files added
 - main.js — minimal interactive behavior (mobile menu, smooth scrolling, reveals)
 
 Placeholders requiring your input
-- CONTACT_EMAIL_HERE — replace this placeholder in index.html with your confirmed business email address.
+- CONTACT_EMAIL_HERE — replaced with mateja@getrevreset.com in index.html. No remaining placeholders.
 
 How to edit
 - Update content directly in index.html for copy changes.
